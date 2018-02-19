@@ -25,7 +25,7 @@
 <b>Comando para enviar as modificações para o repositorio: <pre>git push origin nome-branch</pre></b>
 <p>Agora atualize a página e provavelmente o github irá lhe mostrar que é possivel realizar uma pull request para a branch master, faça a PR e então vou avaliar e mergear.</p>
 
-<b>A pratica não teve como intenção, explicar como o git funciona ou até mesmo todos os comandos, o exericicio só teve como objetivo, dar um 'primeiro contato' com a ferramenta.</b>
+<b>A pratica não teve como intenção, explicar como o git funciona ou até mesmo todos os comandos, o exercicio só teve como objetivo, dar um 'primeiro contato' com a ferramenta.</b>
 
 
 
